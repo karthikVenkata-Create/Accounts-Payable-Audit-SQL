@@ -1,0 +1,11 @@
+handoff,times_seen,median_days,p90_days,total_days
+Clear Invoice -> Pay Invoice,488,25.8,42.4,12048.0
+Send Purchase Order to Vendor -> Receive Goods,488,7.0,18.1,4333.0
+Receive Goods -> Receive Invoice,457,2.7,4.1,1169.0
+Receive Invoice -> Clear Invoice,376,2.8,4.9,1023.0
+Create Purchase Requisition -> Approve Purchase Requisition,468,1.3,3.1,794.0
+Create Purchase Order -> Approve Purchase Order,496,1.1,3.0,775.0
+Set Payment Block -> Remove Payment Block,83,7.0,13.9,652.0
+Approve Purchase Requisition -> Create Purchase Order,468,1.0,2.9,579.0
+Approve Purchase Order -> Send Purchase Order to Vendor,449,0.8,2.6,389.0
+Remove Payment Block -> Clear Invoice,83,3.0,6.0,275.0

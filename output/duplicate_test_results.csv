@@ -1,0 +1,4 @@
+test,duplicate_groups
+Exact invoice number,0
+Normalized invoice number,10
+"Same vendor, same amount, within 45 days",10

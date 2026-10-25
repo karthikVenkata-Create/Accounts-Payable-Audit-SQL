@@ -1,0 +1,5 @@
+outcome,invoices,billed_over_match,paid_over_match
+"Blocked, then released and paid in full",29,16073.16,16073.16
+Missed: paid with no block,7,1301.00,1301.00
+"Blocked, then short-paid to matched value",44,17238.14,0.00
+"Blocked, but within tolerance (no real exception)",10,0.00,0.00

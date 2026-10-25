@@ -1,0 +1,49 @@
+control_break,po_id,vendor_name,department,po_amount,detail
+Invoice before PO (after-the-fact purchasing),PO_10010,Northline Components,Marketing,2016.47,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10032,Orion Electronics,R&D,10239.72,1 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10036,Meridian Logistics,Finance,14081.54,6 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10052,Pacific Office Partners,Finance,2144.58,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10061,Keystone Packaging,Finance,1688.47,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10063,Keystone Packaging,Finance,1272.68,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10090,Keystone Packaging,Facilities,4655.44,2 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10115,Global Fasteners Ltd,R&D,2428.39,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10118,Northline Components,IT,3157.14,5 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10138,Summit Lab Equipment,R&D,1354.83,0 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10163,Pacific Office Partners,Operations,1044.22,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10175,Pacific Office Partners,R&D,9302.10,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10177,Meridian Logistics,Facilities,20383.17,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10185,Apex Industrial Supply,Finance,2983.30,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10189,Pacific Office Partners,Marketing,4179.81,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10204,Meridian Logistics,Facilities,2334.92,2 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10219,Northline Components,R&D,7647.53,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10233,Summit Lab Equipment,R&D,6763.22,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10237,Northline Components,Marketing,8476.56,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10244,Summit Lab Equipment,Operations,5716.95,2 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10245,Apex Industrial Supply,Operations,2213.99,2 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10284,Pacific Office Partners,R&D,12854.90,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10305,Apex Industrial Supply,R&D,5089.57,2 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10309,Summit Lab Equipment,IT,3601.98,1 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10312,Apex Industrial Supply,Finance,2481.56,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10321,Northline Components,Finance,4235.76,6 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10323,Keystone Packaging,Operations,2528.30,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10354,Global Fasteners Ltd,Facilities,5979.46,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10368,Summit Lab Equipment,Facilities,3996.68,3 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10393,Global Fasteners Ltd,Operations,19058.03,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10429,Global Fasteners Ltd,Operations,2269.09,4 days after the invoice
+Invoice before PO (after-the-fact purchasing),PO_10499,Apex Industrial Supply,R&D,3717.79,4 days after the invoice
+Over $10K with no 2nd-level approval,PO_10153,Meridian Logistics,IT,15590.25,no approval of any kind
+Over $10K with no 2nd-level approval,PO_10198,Northline Components,R&D,16900.68,no approval of any kind
+Over $10K with no 2nd-level approval,PO_10253,Meridian Logistics,Finance,12034.79,no approval of any kind
+Over $10K with no 2nd-level approval,PO_10372,Northline Components,Finance,25151.80,no approval of any kind
+Cancelled after being sent to vendor,PO_10038,Orion Electronics,Facilities,6110.84,7 days after sending
+Cancelled after being sent to vendor,PO_10077,Apex Industrial Supply,IT,3387.03,6 days after sending
+Cancelled after being sent to vendor,PO_10080,Orion Electronics,IT,1994.00,3 days after sending
+Cancelled after being sent to vendor,PO_10107,Northline Components,Facilities,8168.21,7 days after sending
+Cancelled after being sent to vendor,PO_10148,Summit Lab Equipment,Finance,721.43,7 days after sending
+Cancelled after being sent to vendor,PO_10173,Keystone Packaging,IT,6725.16,4 days after sending
+Cancelled after being sent to vendor,PO_10194,Orion Electronics,R&D,5160.42,7 days after sending
+Cancelled after being sent to vendor,PO_10249,Apex Industrial Supply,R&D,2793.01,0 days after sending
+Cancelled after being sent to vendor,PO_10309,Summit Lab Equipment,IT,3601.98,6 days after sending
+Cancelled after being sent to vendor,PO_10314,Orion Electronics,Facilities,4599.96,5 days after sending
+Cancelled after being sent to vendor,PO_10410,Keystone Packaging,R&D,31206.37,2 days after sending
+Cancelled after being sent to vendor,PO_10465,Orion Electronics,IT,7613.97,6 days after sending

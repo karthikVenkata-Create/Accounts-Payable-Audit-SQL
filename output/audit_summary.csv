@@ -1,0 +1,10 @@
+sort,section,finding,items,dollars
+1,Money out the door,Duplicate invoices paid twice,10,41987.95
+2,Money out the door,Paid above the PO / receipt (released blocks + missed blocks),36,17374.16
+3,Money out the door,Early-payment discounts missed (2/10 Net 30),102,12365.34
+4,Money out the door,Cost of paying Net-terms invoices >10 days early (5% cost of capital),36,435.00
+5,Money out the door,TOTAL,184,72162.45
+11,Spend outside controls,Invoice before PO (after-the-fact purchasing),32,179898.15
+12,Spend outside controls,Cancelled after being sent to vendor,12,82082.38
+13,Spend outside controls,Over $10K with no 2nd-level approval,4,69677.52
+20,Spend outside controls,TOTAL (each PO counted once),47,328056.07

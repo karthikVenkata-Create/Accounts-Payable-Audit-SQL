@@ -1,0 +1,2 @@
+invoices_paid,paid_late,pct_late,paid_late_weekend_rollover,median_days_late,worst_days_late,discount_eligible,discount_taken_count,discount_captured,discount_missed,paid_early,early_payment_cost
+488,145,29.7,124,4.0,45,167,65,5903.55,12365.34,36,435.00

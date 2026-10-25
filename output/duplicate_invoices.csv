@@ -1,0 +1,11 @@
+vendor_name,po_id,original_no,duplicate_no,days_after_original,invoice_amount,paid_again
+Keystone Packaging,PO_10040,KP-41343,KP41343,12,10119.36,10119.36
+Keystone Packaging,PO_10345,KP-41229,KP-41229A,18,6996.74,6996.74
+Pacific Office Partners,PO_10243,POP-41047,POP-041047,15,6949.19,6949.19
+Pacific Office Partners,PO_10392,POP-41164,POP-41164A,18,4265.66,4265.66
+Summit Lab Equipment,PO_10302,SLE-41100,SLE-041100,16,3123.01,3123.01
+Pacific Office Partners,PO_10283,POP-41050,POP-041050,17,3098.69,3098.69
+Northline Components,PO_10397,NC-41404,NC41404,14,2562.09,2562.09
+Summit Lab Equipment,PO_10344,SLE-41193,SLE41193,14,2218.18,2218.18
+Apex Industrial Supply,PO_10009,AIS-41286,AIS-041286,17,1385.27,1385.27
+Pacific Office Partners,PO_10247,POP-41041,POP-41041A,14,1269.76,1269.76

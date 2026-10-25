@@ -1,0 +1,5 @@
+path,paid_pos,median_days_end_to_end,median_days_invoice_to_clear,pct_paid_late
+Price change only,54,44.9,3.5,27.8
+Clean (no rework),351,45.0,2.8,28.2
+Payment block only,71,47.7,10.7,38.0
+Price change and payment block,12,49.7,13.5,33.3

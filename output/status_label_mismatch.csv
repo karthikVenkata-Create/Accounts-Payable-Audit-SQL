@@ -1,0 +1,18 @@
+po_id,vendor_name,status_in_source,due_date,paid_date,days_late
+PO_10086,Orion Electronics,Paid On Time,2026-08-29,2026-08-31,2
+PO_10152,Northline Components,Paid On Time,2026-05-23,2026-05-25,2
+PO_10248,Northline Components,Paid On Time,2026-05-09,2026-05-11,2
+PO_10330,Northline Components,Paid On Time,2026-05-16,2026-05-18,2
+PO_10045,Northline Components,Paid On Time,2026-06-28,2026-06-29,1
+PO_10070,Apex Industrial Supply,Paid On Time,2026-03-08,2026-03-09,1
+PO_10125,Meridian Logistics,Paid On Time,2026-04-12,2026-04-13,1
+PO_10161,Global Fasteners Ltd,Paid On Time,2026-06-07,2026-06-08,1
+PO_10170,Apex Industrial Supply,Paid On Time,2026-04-23,2026-04-24,1
+PO_10195,Pacific Office Partners,Paid On Time,2026-03-19,2026-03-20,1
+PO_10197,Meridian Logistics,Paid On Time,2026-08-09,2026-08-10,1
+PO_10210,Summit Lab Equipment,Paid On Time,2026-07-26,2026-07-27,1
+PO_10305,Apex Industrial Supply,Paid On Time,2026-07-09,2026-07-10,1
+PO_10307,Apex Industrial Supply,Paid On Time,2026-09-02,2026-09-03,1
+PO_10443,Apex Industrial Supply,Paid On Time,2026-07-19,2026-07-20,1
+PO_10471,Keystone Packaging,Paid On Time,2026-03-08,2026-03-09,1
+PO_10482,Keystone Packaging,Paid On Time,2026-07-05,2026-07-06,1

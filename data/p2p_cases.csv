@@ -1,0 +1,501 @@
+Case_ID,Vendor,Vendor_Region,Department,Requester,Order_Value_USD,Payment_Terms,Requires_2nd_Approval,Case_Status
+PO_10001,Meridian Logistics,US-South,Operations,m.chen,8244.72,Net 30,No,Paid On Time
+PO_10002,Northline Components,US-East,Operations,m.chen,11794.79,Net 30,Yes,Paid On Time
+PO_10003,Meridian Logistics,US-South,Facilities,t.walsh,2467.30,Net 45,No,Paid On Time
+PO_10004,Meridian Logistics,US-South,Finance,k.morgan,2344.28,Net 30,No,Paid Late
+PO_10005,Northline Components,US-East,Marketing,a.brooks,18235.18,2/10 Net 30,Yes,Paid On Time
+PO_10006,Summit Lab Equipment,US-Midwest,Finance,k.morgan,3295.81,2/10 Net 30,No,Paid On Time
+PO_10007,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,1289.59,Net 30,No,Paid Late
+PO_10008,Keystone Packaging,US-East,Operations,j.alvarez,8141.90,Net 30,No,Paid On Time
+PO_10009,Apex Industrial Supply,US-Midwest,IT,s.kim,1385.27,2/10 Net 30,No,Paid On Time
+PO_10010,Northline Components,US-East,Marketing,a.brooks,2016.47,Net 45,No,Paid Late
+PO_10011,Meridian Logistics,US-South,Finance,k.morgan,4825.15,2/10 Net 30,No,Paid On Time
+PO_10012,Global Fasteners Ltd,EU-Germany,Operations,m.chen,2366.04,2/10 Net 30,No,Paid On Time
+PO_10013,Northline Components,US-East,R&D,l.okafor,1034.47,Net 30,No,Paid On Time
+PO_10014,Keystone Packaging,US-East,IT,s.kim,2964.18,2/10 Net 30,No,Paid Late
+PO_10015,Keystone Packaging,US-East,Marketing,a.brooks,11177.88,Net 45,Yes,Paid On Time
+PO_10016,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,2701.64,2/10 Net 30,No,Paid On Time
+PO_10017,Pacific Office Partners,US-West,IT,s.kim,41254.95,Net 45,Yes,Paid On Time
+PO_10018,Orion Electronics,APAC-Singapore,Facilities,t.walsh,9649.04,Net 30,No,Paid Late
+PO_10019,Pacific Office Partners,US-West,Operations,j.alvarez,1280.62,Net 45,No,Paid Late
+PO_10020,Northline Components,US-East,Operations,j.alvarez,3476.93,Net 30,No,Paid Late
+PO_10021,Keystone Packaging,US-East,Facilities,t.walsh,3054.32,2/10 Net 30,No,Paid On Time
+PO_10022,Pacific Office Partners,US-West,Facilities,t.walsh,3593.84,Net 30,No,Paid On Time
+PO_10023,Pacific Office Partners,US-West,Operations,j.alvarez,2995.71,Net 30,No,Paid On Time
+PO_10024,Northline Components,US-East,IT,s.kim,3915.22,2/10 Net 30,No,Paid On Time
+PO_10025,Summit Lab Equipment,US-Midwest,Operations,m.chen,6501.16,2/10 Net 30,No,Paid On Time
+PO_10026,Northline Components,US-East,IT,s.kim,6464.23,Net 45,No,Paid Late
+PO_10027,Pacific Office Partners,US-West,Operations,j.alvarez,2525.12,2/10 Net 30,No,Paid On Time
+PO_10028,Pacific Office Partners,US-West,Finance,k.morgan,3288.71,Net 30,No,Paid On Time
+PO_10029,Apex Industrial Supply,US-Midwest,Finance,k.morgan,3031.36,Net 30,No,Paid On Time
+PO_10030,Keystone Packaging,US-East,Marketing,a.brooks,1714.76,2/10 Net 30,No,Paid On Time
+PO_10031,Summit Lab Equipment,US-Midwest,Finance,k.morgan,2728.93,Net 30,No,Paid Late
+PO_10032,Orion Electronics,APAC-Singapore,R&D,d.nguyen,10239.72,2/10 Net 30,Yes,Paid On Time
+PO_10033,Apex Industrial Supply,US-Midwest,R&D,l.okafor,1413.87,2/10 Net 30,No,Paid On Time
+PO_10034,Keystone Packaging,US-East,Finance,k.morgan,3453.97,2/10 Net 30,No,Paid On Time
+PO_10035,Northline Components,US-East,IT,s.kim,428.21,2/10 Net 30,No,Paid On Time
+PO_10036,Meridian Logistics,US-South,Finance,k.morgan,14081.54,2/10 Net 30,Yes,Paid Late
+PO_10037,Orion Electronics,APAC-Singapore,Facilities,t.walsh,15340.90,2/10 Net 30,Yes,Paid On Time
+PO_10038,Orion Electronics,APAC-Singapore,Facilities,t.walsh,6110.84,Net 30,No,Cancelled
+PO_10039,Pacific Office Partners,US-West,IT,r.patel,3870.40,2/10 Net 30,No,Paid Late
+PO_10040,Keystone Packaging,US-East,Finance,k.morgan,10119.36,Net 45,Yes,Paid On Time
+PO_10041,Summit Lab Equipment,US-Midwest,Operations,m.chen,2116.08,Net 45,No,Paid Late
+PO_10042,Keystone Packaging,US-East,Marketing,a.brooks,5726.74,Net 45,No,Paid On Time
+PO_10043,Meridian Logistics,US-South,Finance,k.morgan,5920.16,Net 45,No,Paid On Time
+PO_10044,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,4789.55,2/10 Net 30,No,Paid Late
+PO_10045,Northline Components,US-East,IT,s.kim,7039.89,Net 30,No,Paid On Time
+PO_10046,Northline Components,US-East,Operations,m.chen,2134.34,Net 30,No,Paid Late
+PO_10047,Apex Industrial Supply,US-Midwest,Finance,k.morgan,4004.76,Net 30,No,Paid On Time
+PO_10048,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,5178.54,2/10 Net 30,No,Paid Late
+PO_10049,Northline Components,US-East,Operations,j.alvarez,16671.18,Net 45,Yes,Paid On Time
+PO_10050,Global Fasteners Ltd,EU-Germany,Facilities,t.walsh,6246.97,Net 30,No,Paid On Time
+PO_10051,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,11046.26,Net 45,Yes,Paid On Time
+PO_10052,Pacific Office Partners,US-West,Finance,k.morgan,2144.58,Net 30,No,Paid On Time
+PO_10053,Global Fasteners Ltd,EU-Germany,Operations,m.chen,6547.19,Net 45,No,Paid Late
+PO_10054,Global Fasteners Ltd,EU-Germany,Operations,m.chen,8273.79,Net 30,No,Paid On Time
+PO_10055,Meridian Logistics,US-South,R&D,l.okafor,595.82,Net 30,No,Paid Late
+PO_10056,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,3926.73,Net 30,No,Paid Late
+PO_10057,Global Fasteners Ltd,EU-Germany,Operations,m.chen,10204.11,Net 30,Yes,Paid On Time
+PO_10058,Keystone Packaging,US-East,Facilities,t.walsh,3765.18,Net 45,No,Paid Late
+PO_10059,Meridian Logistics,US-South,Finance,k.morgan,5114.13,Net 30,No,Paid On Time
+PO_10060,Orion Electronics,APAC-Singapore,Marketing,a.brooks,3736.40,Net 45,No,Paid Late
+PO_10061,Keystone Packaging,US-East,Finance,k.morgan,1688.47,2/10 Net 30,No,Paid On Time
+PO_10062,Pacific Office Partners,US-West,Facilities,t.walsh,1571.46,Net 30,No,Paid On Time
+PO_10063,Keystone Packaging,US-East,Finance,k.morgan,1272.68,Net 45,No,Paid On Time
+PO_10064,Global Fasteners Ltd,EU-Germany,Facilities,t.walsh,1864.10,2/10 Net 30,No,Paid On Time
+PO_10065,Northline Components,US-East,Facilities,t.walsh,2311.92,Net 45,No,Paid On Time
+PO_10066,Pacific Office Partners,US-West,Finance,k.morgan,26314.10,2/10 Net 30,Yes,Paid On Time
+PO_10067,Northline Components,US-East,Facilities,t.walsh,2991.39,Net 45,No,Paid On Time
+PO_10068,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,2534.63,Net 45,No,Paid Late
+PO_10069,Northline Components,US-East,Facilities,t.walsh,3422.72,Net 30,No,Paid On Time
+PO_10070,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,1222.73,2/10 Net 30,No,Paid On Time
+PO_10071,Pacific Office Partners,US-West,Marketing,a.brooks,5369.99,Net 30,No,Paid On Time
+PO_10072,Northline Components,US-East,Marketing,a.brooks,2136.69,Net 30,No,Paid On Time
+PO_10073,Apex Industrial Supply,US-Midwest,Finance,k.morgan,1663.78,Net 45,No,Paid On Time
+PO_10074,Pacific Office Partners,US-West,R&D,d.nguyen,2739.22,Net 30,No,Paid On Time
+PO_10075,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,6132.94,2/10 Net 30,No,Paid On Time
+PO_10076,Global Fasteners Ltd,EU-Germany,IT,r.patel,1195.90,Net 30,No,Paid Late
+PO_10077,Apex Industrial Supply,US-Midwest,IT,r.patel,3387.03,2/10 Net 30,No,Cancelled
+PO_10078,Northline Components,US-East,Marketing,a.brooks,2617.59,Net 30,No,Paid Late
+PO_10079,Keystone Packaging,US-East,Facilities,t.walsh,7225.06,Net 30,No,Paid Late
+PO_10080,Orion Electronics,APAC-Singapore,IT,r.patel,1994.00,2/10 Net 30,No,Cancelled
+PO_10081,Meridian Logistics,US-South,IT,r.patel,571.55,Net 45,No,Paid Late
+PO_10082,Northline Components,US-East,R&D,d.nguyen,4162.18,2/10 Net 30,No,Paid On Time
+PO_10083,Summit Lab Equipment,US-Midwest,IT,s.kim,1267.01,Net 30,No,Paid On Time
+PO_10084,Pacific Office Partners,US-West,Finance,k.morgan,8606.42,Net 45,No,Paid On Time
+PO_10085,Meridian Logistics,US-South,Facilities,t.walsh,668.11,Net 45,No,Paid On Time
+PO_10086,Orion Electronics,APAC-Singapore,Marketing,a.brooks,6255.42,Net 30,No,Paid On Time
+PO_10087,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,27912.41,Net 45,Yes,Paid Late
+PO_10088,Global Fasteners Ltd,EU-Germany,IT,s.kim,3482.52,Net 30,No,Paid On Time
+PO_10089,Pacific Office Partners,US-West,R&D,d.nguyen,1661.76,Net 30,No,Paid On Time
+PO_10090,Keystone Packaging,US-East,Facilities,t.walsh,4655.44,2/10 Net 30,No,Paid Late
+PO_10091,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,954.16,Net 30,No,Paid On Time
+PO_10092,Apex Industrial Supply,US-Midwest,Finance,k.morgan,7242.73,Net 45,No,Paid Late
+PO_10093,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,8477.30,Net 30,No,Paid On Time
+PO_10094,Pacific Office Partners,US-West,IT,s.kim,1862.08,Net 30,No,Paid On Time
+PO_10095,Orion Electronics,APAC-Singapore,Facilities,t.walsh,2609.83,Net 45,No,Paid Late
+PO_10096,Summit Lab Equipment,US-Midwest,R&D,l.okafor,3635.18,Net 30,No,Paid Late
+PO_10097,Meridian Logistics,US-South,Marketing,a.brooks,3721.59,Net 30,No,Paid Late
+PO_10098,Orion Electronics,APAC-Singapore,Operations,j.alvarez,5282.04,Net 30,No,Paid On Time
+PO_10099,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,3693.22,2/10 Net 30,No,Paid On Time
+PO_10100,Apex Industrial Supply,US-Midwest,R&D,l.okafor,1123.80,Net 45,No,Paid On Time
+PO_10101,Orion Electronics,APAC-Singapore,R&D,l.okafor,3867.73,Net 30,No,Paid Late
+PO_10102,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,2488.63,Net 45,No,Paid On Time
+PO_10103,Keystone Packaging,US-East,Marketing,a.brooks,1991.42,2/10 Net 30,No,Paid On Time
+PO_10104,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,11120.69,Net 30,Yes,Paid Late
+PO_10105,Northline Components,US-East,Facilities,t.walsh,7180.82,2/10 Net 30,No,Paid Late
+PO_10106,Keystone Packaging,US-East,Finance,k.morgan,902.95,2/10 Net 30,No,Paid On Time
+PO_10107,Northline Components,US-East,Facilities,t.walsh,8168.21,Net 45,No,Cancelled
+PO_10108,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,6884.69,Net 30,No,Paid Late
+PO_10109,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,1350.32,Net 45,No,Paid Late
+PO_10110,Orion Electronics,APAC-Singapore,IT,s.kim,2520.68,Net 45,No,Paid On Time
+PO_10111,Meridian Logistics,US-South,Facilities,t.walsh,2680.78,Net 30,No,Paid Late
+PO_10112,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,2376.18,Net 45,No,Paid Late
+PO_10113,Pacific Office Partners,US-West,R&D,l.okafor,10706.86,2/10 Net 30,Yes,Paid Late
+PO_10114,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,2877.91,2/10 Net 30,No,Paid On Time
+PO_10115,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,2428.39,Net 30,No,Paid On Time
+PO_10116,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,8904.24,Net 45,No,Paid On Time
+PO_10117,Keystone Packaging,US-East,Operations,j.alvarez,1230.41,Net 45,No,Paid Late
+PO_10118,Northline Components,US-East,IT,r.patel,3157.14,2/10 Net 30,No,Paid On Time
+PO_10119,Pacific Office Partners,US-West,Finance,k.morgan,4598.95,Net 30,No,Paid On Time
+PO_10120,Apex Industrial Supply,US-Midwest,R&D,l.okafor,2080.80,Net 45,No,Paid Late
+PO_10121,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,1230.14,Net 45,No,Paid On Time
+PO_10122,Summit Lab Equipment,US-Midwest,IT,s.kim,8437.83,Net 30,No,Paid On Time
+PO_10123,Orion Electronics,APAC-Singapore,Marketing,a.brooks,2351.70,Net 30,No,Paid Late
+PO_10124,Apex Industrial Supply,US-Midwest,Finance,k.morgan,1624.78,2/10 Net 30,No,Paid On Time
+PO_10125,Meridian Logistics,US-South,Marketing,a.brooks,3815.35,Net 30,No,Paid On Time
+PO_10126,Pacific Office Partners,US-West,Operations,j.alvarez,1591.93,2/10 Net 30,No,Paid On Time
+PO_10127,Northline Components,US-East,R&D,l.okafor,7446.47,2/10 Net 30,No,Paid On Time
+PO_10128,Meridian Logistics,US-South,Finance,k.morgan,4002.16,Net 45,No,Paid On Time
+PO_10129,Orion Electronics,APAC-Singapore,Marketing,a.brooks,1490.46,Net 45,No,Paid On Time
+PO_10130,Meridian Logistics,US-South,Marketing,a.brooks,8069.14,Net 30,No,Paid Late
+PO_10131,Pacific Office Partners,US-West,IT,s.kim,4930.20,Net 45,No,Paid On Time
+PO_10132,Pacific Office Partners,US-West,R&D,l.okafor,6359.33,2/10 Net 30,No,Paid On Time
+PO_10133,Pacific Office Partners,US-West,Finance,k.morgan,9134.70,Net 30,No,Paid Late
+PO_10134,Orion Electronics,APAC-Singapore,Operations,m.chen,6326.43,Net 30,No,Paid On Time
+PO_10135,Northline Components,US-East,Finance,k.morgan,5757.04,2/10 Net 30,No,Paid On Time
+PO_10136,Keystone Packaging,US-East,Marketing,a.brooks,946.43,2/10 Net 30,No,Paid On Time
+PO_10137,Keystone Packaging,US-East,Operations,m.chen,4078.47,2/10 Net 30,No,Paid On Time
+PO_10138,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,1354.83,2/10 Net 30,No,Paid On Time
+PO_10139,Orion Electronics,APAC-Singapore,Facilities,t.walsh,2340.40,Net 30,No,Paid On Time
+PO_10140,Pacific Office Partners,US-West,Operations,j.alvarez,5026.22,2/10 Net 30,No,Paid On Time
+PO_10141,Apex Industrial Supply,US-Midwest,Finance,k.morgan,1195.22,Net 30,No,Paid On Time
+PO_10142,Northline Components,US-East,Marketing,a.brooks,2208.18,2/10 Net 30,No,Paid On Time
+PO_10143,Northline Components,US-East,Facilities,t.walsh,2788.51,Net 30,No,Paid On Time
+PO_10144,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,2949.51,Net 45,No,Paid Late
+PO_10145,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,3227.58,2/10 Net 30,No,Paid On Time
+PO_10146,Meridian Logistics,US-South,Facilities,t.walsh,5159.11,2/10 Net 30,No,Paid On Time
+PO_10147,Keystone Packaging,US-East,Facilities,t.walsh,1108.52,2/10 Net 30,No,Paid On Time
+PO_10148,Summit Lab Equipment,US-Midwest,Finance,k.morgan,721.43,Net 30,No,Cancelled
+PO_10149,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,4352.19,2/10 Net 30,No,Paid On Time
+PO_10150,Pacific Office Partners,US-West,Finance,k.morgan,3866.95,Net 30,No,Paid On Time
+PO_10151,Summit Lab Equipment,US-Midwest,IT,s.kim,951.20,Net 30,No,Paid Late
+PO_10152,Northline Components,US-East,Facilities,t.walsh,4257.87,Net 45,No,Paid On Time
+PO_10153,Meridian Logistics,US-South,IT,r.patel,15590.25,Net 45,Yes,Paid Late
+PO_10154,Northline Components,US-East,IT,s.kim,1975.06,Net 30,No,Paid On Time
+PO_10155,Keystone Packaging,US-East,R&D,d.nguyen,1936.98,Net 45,No,Paid On Time
+PO_10156,Global Fasteners Ltd,EU-Germany,IT,s.kim,2199.31,Net 30,No,Paid On Time
+PO_10157,Summit Lab Equipment,US-Midwest,Finance,k.morgan,1877.04,Net 45,No,Paid On Time
+PO_10158,Pacific Office Partners,US-West,Operations,m.chen,1002.88,Net 45,No,Paid On Time
+PO_10159,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,1708.89,Net 30,No,Paid Late
+PO_10160,Apex Industrial Supply,US-Midwest,Finance,k.morgan,2459.36,Net 45,No,Paid On Time
+PO_10161,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,8256.78,Net 30,No,Paid On Time
+PO_10162,Keystone Packaging,US-East,Finance,k.morgan,25894.03,2/10 Net 30,Yes,Paid On Time
+PO_10163,Pacific Office Partners,US-West,Operations,m.chen,1044.22,Net 30,No,Paid On Time
+PO_10164,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,14478.79,2/10 Net 30,Yes,Paid Late
+PO_10165,Meridian Logistics,US-South,Operations,m.chen,16165.34,Net 30,Yes,Paid Late
+PO_10166,Keystone Packaging,US-East,IT,r.patel,2361.93,Net 30,No,Paid Late
+PO_10167,Keystone Packaging,US-East,IT,r.patel,1718.99,Net 30,No,Paid On Time
+PO_10168,Pacific Office Partners,US-West,Finance,k.morgan,3867.29,Net 30,No,Paid On Time
+PO_10169,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,2462.81,2/10 Net 30,No,Paid Late
+PO_10170,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,2228.00,Net 45,No,Paid On Time
+PO_10171,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,6387.07,2/10 Net 30,No,Paid On Time
+PO_10172,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,4353.62,Net 45,No,Paid Late
+PO_10173,Keystone Packaging,US-East,IT,s.kim,6725.16,2/10 Net 30,No,Cancelled
+PO_10174,Pacific Office Partners,US-West,Marketing,a.brooks,5523.33,2/10 Net 30,No,Paid On Time
+PO_10175,Pacific Office Partners,US-West,R&D,d.nguyen,9302.10,Net 30,No,Paid Late
+PO_10176,Summit Lab Equipment,US-Midwest,IT,r.patel,4748.66,Net 45,No,Paid Late
+PO_10177,Meridian Logistics,US-South,Facilities,t.walsh,20383.17,Net 30,Yes,Paid On Time
+PO_10178,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,5595.96,2/10 Net 30,No,Paid On Time
+PO_10179,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,2208.75,Net 45,No,Paid Late
+PO_10180,Keystone Packaging,US-East,Marketing,a.brooks,3106.04,Net 45,No,Paid On Time
+PO_10181,Orion Electronics,APAC-Singapore,Operations,j.alvarez,4565.62,Net 45,No,Paid On Time
+PO_10182,Apex Industrial Supply,US-Midwest,IT,r.patel,3601.52,Net 45,No,Paid On Time
+PO_10183,Meridian Logistics,US-South,Marketing,a.brooks,3114.96,Net 30,No,Paid On Time
+PO_10184,Pacific Office Partners,US-West,Finance,k.morgan,3357.61,Net 30,No,Paid On Time
+PO_10185,Apex Industrial Supply,US-Midwest,Finance,k.morgan,2983.30,Net 30,No,Paid On Time
+PO_10186,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,22459.05,Net 30,Yes,Paid Late
+PO_10187,Northline Components,US-East,Operations,m.chen,806.73,Net 45,No,Paid On Time
+PO_10188,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,1131.82,2/10 Net 30,No,Paid Late
+PO_10189,Pacific Office Partners,US-West,Marketing,a.brooks,4179.81,Net 45,No,Paid On Time
+PO_10190,Orion Electronics,APAC-Singapore,Facilities,t.walsh,12316.03,2/10 Net 30,Yes,Paid On Time
+PO_10191,Pacific Office Partners,US-West,R&D,d.nguyen,11066.46,2/10 Net 30,Yes,Paid On Time
+PO_10192,Meridian Logistics,US-South,Finance,k.morgan,4621.73,Net 45,No,Paid On Time
+PO_10193,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,1572.56,Net 45,No,Paid On Time
+PO_10194,Orion Electronics,APAC-Singapore,R&D,l.okafor,5160.42,Net 30,No,Cancelled
+PO_10195,Pacific Office Partners,US-West,Finance,k.morgan,3320.52,2/10 Net 30,No,Paid On Time
+PO_10196,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,7696.05,Net 30,No,Paid On Time
+PO_10197,Meridian Logistics,US-South,Facilities,t.walsh,2853.07,Net 45,No,Paid On Time
+PO_10198,Northline Components,US-East,R&D,l.okafor,16900.68,Net 45,Yes,Paid On Time
+PO_10199,Northline Components,US-East,Operations,m.chen,1735.71,2/10 Net 30,No,Paid On Time
+PO_10200,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,723.83,2/10 Net 30,No,Paid On Time
+PO_10201,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,3044.29,Net 30,No,Paid On Time
+PO_10202,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,13815.75,2/10 Net 30,Yes,Paid On Time
+PO_10203,Pacific Office Partners,US-West,R&D,d.nguyen,3011.05,2/10 Net 30,No,Paid On Time
+PO_10204,Meridian Logistics,US-South,Facilities,t.walsh,2334.92,2/10 Net 30,No,Paid Late
+PO_10205,Keystone Packaging,US-East,IT,r.patel,788.11,Net 45,No,Paid On Time
+PO_10206,Global Fasteners Ltd,EU-Germany,IT,r.patel,588.99,Net 30,No,Paid On Time
+PO_10207,Northline Components,US-East,Finance,k.morgan,3470.44,Net 30,No,Paid On Time
+PO_10208,Keystone Packaging,US-East,IT,r.patel,9086.38,Net 30,No,Paid Late
+PO_10209,Keystone Packaging,US-East,R&D,l.okafor,1971.06,Net 45,No,Paid On Time
+PO_10210,Summit Lab Equipment,US-Midwest,IT,r.patel,951.90,Net 30,No,Paid On Time
+PO_10211,Keystone Packaging,US-East,Finance,k.morgan,1816.47,Net 45,No,Paid On Time
+PO_10212,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,7481.21,2/10 Net 30,No,Paid On Time
+PO_10213,Keystone Packaging,US-East,R&D,l.okafor,1952.47,2/10 Net 30,No,Paid On Time
+PO_10214,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,4990.57,2/10 Net 30,No,Paid On Time
+PO_10215,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,5753.40,Net 30,No,Paid On Time
+PO_10216,Pacific Office Partners,US-West,Marketing,a.brooks,4207.56,2/10 Net 30,No,Paid On Time
+PO_10217,Meridian Logistics,US-South,Facilities,t.walsh,2817.50,Net 30,No,Paid On Time
+PO_10218,Keystone Packaging,US-East,Finance,k.morgan,539.99,Net 45,No,Paid On Time
+PO_10219,Northline Components,US-East,R&D,l.okafor,7647.53,Net 45,No,Paid On Time
+PO_10220,Orion Electronics,APAC-Singapore,Facilities,t.walsh,16794.26,Net 45,Yes,Paid On Time
+PO_10221,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,7328.26,2/10 Net 30,No,Paid On Time
+PO_10222,Apex Industrial Supply,US-Midwest,R&D,l.okafor,1118.67,2/10 Net 30,No,Paid On Time
+PO_10223,Apex Industrial Supply,US-Midwest,Operations,j.alvarez,4311.65,Net 30,No,Paid Late
+PO_10224,Apex Industrial Supply,US-Midwest,IT,s.kim,4657.73,2/10 Net 30,No,Paid On Time
+PO_10225,Orion Electronics,APAC-Singapore,Finance,k.morgan,1674.77,2/10 Net 30,No,Paid On Time
+PO_10226,Northline Components,US-East,R&D,d.nguyen,5895.42,Net 45,No,Paid On Time
+PO_10227,Meridian Logistics,US-South,IT,s.kim,2481.98,2/10 Net 30,No,Paid On Time
+PO_10228,Pacific Office Partners,US-West,Marketing,a.brooks,500.11,Net 45,No,Paid On Time
+PO_10229,Keystone Packaging,US-East,Facilities,t.walsh,2637.41,Net 45,No,Paid On Time
+PO_10230,Pacific Office Partners,US-West,Operations,m.chen,2449.82,2/10 Net 30,No,Paid On Time
+PO_10231,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,1624.47,Net 45,No,Paid On Time
+PO_10232,Keystone Packaging,US-East,R&D,d.nguyen,2847.27,Net 30,No,Paid On Time
+PO_10233,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,6763.22,Net 30,No,Paid On Time
+PO_10234,Summit Lab Equipment,US-Midwest,Finance,k.morgan,4533.60,Net 30,No,Paid On Time
+PO_10235,Pacific Office Partners,US-West,Marketing,a.brooks,2226.72,2/10 Net 30,No,Paid On Time
+PO_10236,Pacific Office Partners,US-West,IT,s.kim,10324.80,Net 30,Yes,Paid On Time
+PO_10237,Northline Components,US-East,Marketing,a.brooks,8476.56,Net 45,No,Paid On Time
+PO_10238,Keystone Packaging,US-East,IT,s.kim,3209.49,Net 45,No,Paid On Time
+PO_10239,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,4045.29,Net 30,No,Paid Late
+PO_10240,Northline Components,US-East,IT,r.patel,1730.43,Net 45,No,Paid On Time
+PO_10241,Meridian Logistics,US-South,Facilities,t.walsh,3682.43,Net 45,No,Paid On Time
+PO_10242,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,3814.04,2/10 Net 30,No,Paid On Time
+PO_10243,Pacific Office Partners,US-West,R&D,l.okafor,6949.19,2/10 Net 30,No,Paid On Time
+PO_10244,Summit Lab Equipment,US-Midwest,Operations,m.chen,5716.95,Net 30,No,Paid On Time
+PO_10245,Apex Industrial Supply,US-Midwest,Operations,m.chen,2213.99,Net 45,No,Paid On Time
+PO_10246,Meridian Logistics,US-South,Marketing,a.brooks,11345.54,Net 45,Yes,Paid Late
+PO_10247,Pacific Office Partners,US-West,Facilities,t.walsh,1269.76,2/10 Net 30,No,Paid On Time
+PO_10248,Northline Components,US-East,Finance,k.morgan,3281.06,Net 30,No,Paid On Time
+PO_10249,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,2793.01,Net 30,No,Cancelled
+PO_10250,Northline Components,US-East,Marketing,a.brooks,28203.62,Net 45,Yes,Paid On Time
+PO_10251,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,2427.99,Net 30,No,Paid Late
+PO_10252,Northline Components,US-East,IT,s.kim,14061.19,Net 45,Yes,Paid On Time
+PO_10253,Meridian Logistics,US-South,Finance,k.morgan,12034.79,Net 45,Yes,Paid On Time
+PO_10254,Northline Components,US-East,IT,r.patel,6425.18,Net 45,No,Paid On Time
+PO_10255,Apex Industrial Supply,US-Midwest,Operations,j.alvarez,12793.99,Net 30,Yes,Paid On Time
+PO_10256,Orion Electronics,APAC-Singapore,Marketing,a.brooks,1437.17,2/10 Net 30,No,Paid On Time
+PO_10257,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,4074.18,Net 45,No,Paid Late
+PO_10258,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,3191.38,Net 30,No,Paid Late
+PO_10259,Pacific Office Partners,US-West,Facilities,t.walsh,3390.96,Net 30,No,Paid Late
+PO_10260,Pacific Office Partners,US-West,Operations,j.alvarez,4720.97,Net 45,No,Paid On Time
+PO_10261,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,10185.23,Net 45,Yes,Paid On Time
+PO_10262,Keystone Packaging,US-East,R&D,d.nguyen,1854.93,2/10 Net 30,No,Paid On Time
+PO_10263,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,9324.27,Net 30,No,Paid Late
+PO_10264,Pacific Office Partners,US-West,Finance,k.morgan,3924.77,Net 45,No,Paid On Time
+PO_10265,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,4109.36,2/10 Net 30,No,Paid On Time
+PO_10266,Apex Industrial Supply,US-Midwest,Finance,k.morgan,3305.81,Net 30,No,Paid On Time
+PO_10267,Orion Electronics,APAC-Singapore,IT,s.kim,5453.60,Net 30,No,Paid On Time
+PO_10268,Meridian Logistics,US-South,Finance,k.morgan,2580.55,2/10 Net 30,No,Paid On Time
+PO_10269,Northline Components,US-East,Finance,k.morgan,1812.17,Net 30,No,Paid On Time
+PO_10270,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,11608.76,Net 30,Yes,Paid On Time
+PO_10271,Global Fasteners Ltd,EU-Germany,IT,r.patel,4262.42,Net 30,No,Paid On Time
+PO_10272,Northline Components,US-East,Operations,j.alvarez,3891.62,Net 30,No,Paid On Time
+PO_10273,Apex Industrial Supply,US-Midwest,IT,r.patel,1551.58,2/10 Net 30,No,Paid On Time
+PO_10274,Northline Components,US-East,Facilities,t.walsh,5659.78,Net 30,No,Paid On Time
+PO_10275,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,7080.05,Net 45,No,Paid Late
+PO_10276,Meridian Logistics,US-South,Finance,k.morgan,11078.25,Net 30,Yes,Paid On Time
+PO_10277,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,1926.06,2/10 Net 30,No,Paid Late
+PO_10278,Keystone Packaging,US-East,R&D,l.okafor,7559.21,2/10 Net 30,No,Paid On Time
+PO_10279,Apex Industrial Supply,US-Midwest,Finance,k.morgan,2447.29,Net 30,No,Paid On Time
+PO_10280,Keystone Packaging,US-East,Operations,j.alvarez,3961.56,2/10 Net 30,No,Paid On Time
+PO_10281,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,4307.46,2/10 Net 30,No,Paid On Time
+PO_10282,Keystone Packaging,US-East,IT,s.kim,1754.20,Net 30,No,Paid On Time
+PO_10283,Pacific Office Partners,US-West,Operations,m.chen,3098.69,Net 45,No,Paid On Time
+PO_10284,Pacific Office Partners,US-West,R&D,d.nguyen,12854.90,2/10 Net 30,Yes,Paid On Time
+PO_10285,Northline Components,US-East,Operations,m.chen,2666.96,Net 30,No,Paid On Time
+PO_10286,Global Fasteners Ltd,EU-Germany,IT,r.patel,2288.16,2/10 Net 30,No,Paid On Time
+PO_10287,Orion Electronics,APAC-Singapore,Marketing,a.brooks,548.23,2/10 Net 30,No,Paid On Time
+PO_10288,Northline Components,US-East,IT,s.kim,59741.35,2/10 Net 30,Yes,Paid On Time
+PO_10289,Pacific Office Partners,US-West,Operations,j.alvarez,1808.70,Net 30,No,Paid On Time
+PO_10290,Pacific Office Partners,US-West,R&D,l.okafor,1098.22,Net 45,No,Paid Late
+PO_10291,Pacific Office Partners,US-West,R&D,l.okafor,2811.12,Net 45,No,Paid On Time
+PO_10292,Northline Components,US-East,Operations,m.chen,8958.87,2/10 Net 30,No,Paid On Time
+PO_10293,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,6334.24,2/10 Net 30,No,Paid On Time
+PO_10294,Northline Components,US-East,Operations,j.alvarez,1272.19,Net 45,No,Paid Late
+PO_10295,Summit Lab Equipment,US-Midwest,R&D,l.okafor,1647.08,Net 45,No,Paid Late
+PO_10296,Global Fasteners Ltd,EU-Germany,IT,r.patel,1134.01,Net 45,No,Paid Late
+PO_10297,Apex Industrial Supply,US-Midwest,Finance,k.morgan,14140.36,Net 45,Yes,Paid On Time
+PO_10298,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,3206.85,2/10 Net 30,No,Paid On Time
+PO_10299,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,3067.76,2/10 Net 30,No,Paid On Time
+PO_10300,Orion Electronics,APAC-Singapore,IT,s.kim,680.77,Net 45,No,Paid On Time
+PO_10301,Keystone Packaging,US-East,Finance,k.morgan,1994.07,2/10 Net 30,No,Paid On Time
+PO_10302,Summit Lab Equipment,US-Midwest,Finance,k.morgan,3123.01,Net 45,No,Paid Late
+PO_10303,Meridian Logistics,US-South,Facilities,t.walsh,4739.39,2/10 Net 30,No,Paid On Time
+PO_10304,Meridian Logistics,US-South,Finance,k.morgan,7702.12,2/10 Net 30,No,Paid Late
+PO_10305,Apex Industrial Supply,US-Midwest,R&D,l.okafor,5089.57,Net 45,No,Paid On Time
+PO_10306,Northline Components,US-East,R&D,d.nguyen,2496.57,2/10 Net 30,No,Paid On Time
+PO_10307,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,2471.47,Net 30,No,Paid On Time
+PO_10308,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,3732.38,2/10 Net 30,No,Paid On Time
+PO_10309,Summit Lab Equipment,US-Midwest,IT,r.patel,3601.98,2/10 Net 30,No,Cancelled
+PO_10310,Meridian Logistics,US-South,Facilities,t.walsh,7750.66,2/10 Net 30,No,Paid Late
+PO_10311,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,885.64,2/10 Net 30,No,Paid On Time
+PO_10312,Apex Industrial Supply,US-Midwest,Finance,k.morgan,2481.56,Net 30,No,Paid On Time
+PO_10313,Apex Industrial Supply,US-Midwest,Operations,j.alvarez,4916.73,Net 30,No,Paid On Time
+PO_10314,Orion Electronics,APAC-Singapore,Facilities,t.walsh,4599.96,2/10 Net 30,No,Cancelled
+PO_10315,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,7673.57,Net 45,No,Paid On Time
+PO_10316,Northline Components,US-East,Facilities,t.walsh,882.03,Net 30,No,Paid On Time
+PO_10317,Meridian Logistics,US-South,Operations,m.chen,589.24,Net 45,No,Paid Late
+PO_10318,Pacific Office Partners,US-West,Facilities,t.walsh,2368.89,Net 30,No,Paid On Time
+PO_10319,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,2529.44,Net 30,No,Paid On Time
+PO_10320,Keystone Packaging,US-East,R&D,d.nguyen,6814.38,Net 30,No,Paid On Time
+PO_10321,Northline Components,US-East,Finance,k.morgan,4235.76,2/10 Net 30,No,Paid On Time
+PO_10322,Orion Electronics,APAC-Singapore,Marketing,a.brooks,3397.73,Net 30,No,Paid Late
+PO_10323,Keystone Packaging,US-East,Operations,m.chen,2528.30,Net 30,No,Paid On Time
+PO_10324,Summit Lab Equipment,US-Midwest,Finance,k.morgan,32341.38,2/10 Net 30,Yes,Paid On Time
+PO_10325,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,8155.16,2/10 Net 30,No,Paid Late
+PO_10326,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,2997.95,Net 30,No,Paid On Time
+PO_10327,Pacific Office Partners,US-West,Finance,k.morgan,3659.73,Net 30,No,Paid On Time
+PO_10328,Orion Electronics,APAC-Singapore,R&D,l.okafor,2874.09,2/10 Net 30,No,Paid Late
+PO_10329,Apex Industrial Supply,US-Midwest,Operations,m.chen,3642.72,Net 45,No,Paid On Time
+PO_10330,Northline Components,US-East,Finance,k.morgan,4253.10,Net 30,No,Paid On Time
+PO_10331,Summit Lab Equipment,US-Midwest,IT,r.patel,2887.97,2/10 Net 30,No,Paid On Time
+PO_10332,Meridian Logistics,US-South,Finance,k.morgan,7348.05,Net 30,No,Paid On Time
+PO_10333,Global Fasteners Ltd,EU-Germany,Facilities,t.walsh,5544.86,2/10 Net 30,No,Paid Late
+PO_10334,Meridian Logistics,US-South,Marketing,a.brooks,10583.87,Net 30,Yes,Paid Late
+PO_10335,Global Fasteners Ltd,EU-Germany,IT,s.kim,12362.18,Net 45,Yes,Paid On Time
+PO_10336,Summit Lab Equipment,US-Midwest,R&D,l.okafor,8800.29,Net 45,No,Paid On Time
+PO_10337,Pacific Office Partners,US-West,Facilities,t.walsh,3739.61,Net 45,No,Paid On Time
+PO_10338,Summit Lab Equipment,US-Midwest,Operations,j.alvarez,4077.15,Net 30,No,Paid On Time
+PO_10339,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,895.44,Net 30,No,Paid Late
+PO_10340,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,1721.04,Net 45,No,Paid On Time
+PO_10341,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,3808.70,2/10 Net 30,No,Paid On Time
+PO_10342,Keystone Packaging,US-East,R&D,l.okafor,725.22,Net 45,No,Paid Late
+PO_10343,Northline Components,US-East,R&D,l.okafor,16011.87,2/10 Net 30,Yes,Paid On Time
+PO_10344,Summit Lab Equipment,US-Midwest,Finance,k.morgan,2218.18,2/10 Net 30,No,Paid On Time
+PO_10345,Keystone Packaging,US-East,R&D,l.okafor,6996.74,Net 45,No,Paid On Time
+PO_10346,Apex Industrial Supply,US-Midwest,Finance,k.morgan,648.52,Net 30,No,Paid On Time
+PO_10347,Pacific Office Partners,US-West,R&D,l.okafor,3535.46,2/10 Net 30,No,Paid On Time
+PO_10348,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,8254.12,Net 30,No,Paid On Time
+PO_10349,Pacific Office Partners,US-West,Facilities,t.walsh,981.98,Net 45,No,Paid On Time
+PO_10350,Meridian Logistics,US-South,Facilities,t.walsh,1443.25,2/10 Net 30,No,Paid On Time
+PO_10351,Northline Components,US-East,Finance,k.morgan,20834.24,Net 45,Yes,Paid On Time
+PO_10352,Northline Components,US-East,Facilities,t.walsh,2212.51,Net 30,No,Paid On Time
+PO_10353,Northline Components,US-East,IT,s.kim,793.16,Net 30,No,Paid Late
+PO_10354,Global Fasteners Ltd,EU-Germany,Facilities,t.walsh,5979.46,Net 45,No,Paid Late
+PO_10355,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,8816.71,Net 45,No,Paid On Time
+PO_10356,Orion Electronics,APAC-Singapore,IT,s.kim,4104.81,Net 45,No,Paid On Time
+PO_10357,Summit Lab Equipment,US-Midwest,IT,s.kim,4246.21,2/10 Net 30,No,Paid On Time
+PO_10358,Apex Industrial Supply,US-Midwest,Finance,k.morgan,5051.72,2/10 Net 30,No,Paid On Time
+PO_10359,Orion Electronics,APAC-Singapore,IT,s.kim,2537.12,Net 45,No,Paid On Time
+PO_10360,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,3412.16,2/10 Net 30,No,Paid On Time
+PO_10361,Meridian Logistics,US-South,Facilities,t.walsh,1972.13,2/10 Net 30,No,Paid On Time
+PO_10362,Summit Lab Equipment,US-Midwest,Operations,m.chen,10233.28,Net 30,Yes,Paid On Time
+PO_10363,Apex Industrial Supply,US-Midwest,R&D,d.nguyen,7684.73,Net 30,No,Paid Late
+PO_10364,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,652.01,2/10 Net 30,No,Paid On Time
+PO_10365,Orion Electronics,APAC-Singapore,Operations,j.alvarez,10743.56,Net 30,Yes,Paid Late
+PO_10366,Global Fasteners Ltd,EU-Germany,IT,s.kim,3969.89,Net 45,No,Paid Late
+PO_10367,Keystone Packaging,US-East,Marketing,a.brooks,3507.05,Net 45,No,Paid Late
+PO_10368,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,3996.68,2/10 Net 30,No,Paid On Time
+PO_10369,Pacific Office Partners,US-West,R&D,l.okafor,1834.53,Net 30,No,Paid Late
+PO_10370,Meridian Logistics,US-South,Facilities,t.walsh,15761.39,2/10 Net 30,Yes,Paid On Time
+PO_10371,Pacific Office Partners,US-West,R&D,d.nguyen,14528.28,Net 30,Yes,Paid On Time
+PO_10372,Northline Components,US-East,Finance,k.morgan,25151.80,Net 30,Yes,Paid On Time
+PO_10373,Keystone Packaging,US-East,Marketing,a.brooks,1157.56,2/10 Net 30,No,Paid On Time
+PO_10374,Meridian Logistics,US-South,Operations,j.alvarez,7970.41,2/10 Net 30,No,Paid On Time
+PO_10375,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,8140.43,Net 45,No,Paid On Time
+PO_10376,Summit Lab Equipment,US-Midwest,IT,s.kim,545.71,Net 45,No,Paid Late
+PO_10377,Orion Electronics,APAC-Singapore,Facilities,t.walsh,4578.97,Net 30,No,Paid Late
+PO_10378,Orion Electronics,APAC-Singapore,R&D,l.okafor,2346.90,2/10 Net 30,No,Paid On Time
+PO_10379,Keystone Packaging,US-East,Operations,m.chen,17866.38,Net 45,Yes,Paid On Time
+PO_10380,Orion Electronics,APAC-Singapore,Operations,m.chen,7083.83,2/10 Net 30,No,Paid On Time
+PO_10381,Pacific Office Partners,US-West,Facilities,t.walsh,5851.38,Net 30,No,Paid On Time
+PO_10382,Northline Components,US-East,R&D,d.nguyen,2462.72,Net 45,No,Paid On Time
+PO_10383,Apex Industrial Supply,US-Midwest,R&D,l.okafor,12707.27,2/10 Net 30,Yes,Paid On Time
+PO_10384,Apex Industrial Supply,US-Midwest,Operations,j.alvarez,6982.53,Net 45,No,Paid On Time
+PO_10385,Meridian Logistics,US-South,R&D,d.nguyen,7823.32,Net 45,No,Paid Late
+PO_10386,Orion Electronics,APAC-Singapore,R&D,l.okafor,1516.55,2/10 Net 30,No,Paid Late
+PO_10387,Global Fasteners Ltd,EU-Germany,Operations,m.chen,24785.00,Net 30,Yes,Paid Late
+PO_10388,Northline Components,US-East,Facilities,t.walsh,9828.07,2/10 Net 30,No,Paid On Time
+PO_10389,Orion Electronics,APAC-Singapore,IT,r.patel,3127.24,2/10 Net 30,No,Paid On Time
+PO_10390,Orion Electronics,APAC-Singapore,Marketing,a.brooks,496.48,2/10 Net 30,No,Paid On Time
+PO_10391,Apex Industrial Supply,US-Midwest,Operations,j.alvarez,8312.87,2/10 Net 30,No,Paid On Time
+PO_10392,Pacific Office Partners,US-West,Finance,k.morgan,4265.66,Net 30,No,Paid On Time
+PO_10393,Global Fasteners Ltd,EU-Germany,Operations,m.chen,19058.03,2/10 Net 30,Yes,Paid Late
+PO_10394,Orion Electronics,APAC-Singapore,IT,r.patel,6540.31,Net 45,No,Paid Late
+PO_10395,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,9964.69,Net 30,No,Paid On Time
+PO_10396,Orion Electronics,APAC-Singapore,IT,s.kim,6436.46,2/10 Net 30,No,Paid On Time
+PO_10397,Northline Components,US-East,R&D,l.okafor,2562.09,Net 45,No,Paid On Time
+PO_10398,Meridian Logistics,US-South,R&D,d.nguyen,1945.94,2/10 Net 30,No,Paid On Time
+PO_10399,Pacific Office Partners,US-West,R&D,l.okafor,8640.70,Net 45,No,Paid Late
+PO_10400,Keystone Packaging,US-East,Operations,j.alvarez,8603.93,Net 30,No,Paid On Time
+PO_10401,Summit Lab Equipment,US-Midwest,Finance,k.morgan,2822.41,2/10 Net 30,No,Paid Late
+PO_10402,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,1976.77,Net 45,No,Paid On Time
+PO_10403,Meridian Logistics,US-South,R&D,l.okafor,7480.78,Net 45,No,Paid On Time
+PO_10404,Meridian Logistics,US-South,R&D,l.okafor,2480.80,Net 45,No,Paid On Time
+PO_10405,Orion Electronics,APAC-Singapore,IT,r.patel,5222.55,2/10 Net 30,No,Paid On Time
+PO_10406,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,1234.56,2/10 Net 30,No,Paid On Time
+PO_10407,Northline Components,US-East,Marketing,a.brooks,457.29,Net 45,No,Paid On Time
+PO_10408,Northline Components,US-East,Finance,k.morgan,5781.53,Net 45,No,Paid On Time
+PO_10409,Global Fasteners Ltd,EU-Germany,Operations,j.alvarez,2205.73,Net 30,No,Paid On Time
+PO_10410,Keystone Packaging,US-East,R&D,l.okafor,31206.37,Net 45,Yes,Cancelled
+PO_10411,Meridian Logistics,US-South,Finance,k.morgan,6193.21,Net 30,No,Paid Late
+PO_10412,Meridian Logistics,US-South,Facilities,t.walsh,769.13,Net 30,No,Paid On Time
+PO_10413,Northline Components,US-East,R&D,d.nguyen,7221.06,Net 45,No,Paid On Time
+PO_10414,Northline Components,US-East,R&D,l.okafor,2173.84,2/10 Net 30,No,Paid On Time
+PO_10415,Meridian Logistics,US-South,IT,r.patel,13923.88,Net 45,Yes,Paid On Time
+PO_10416,Northline Components,US-East,R&D,l.okafor,3820.97,2/10 Net 30,No,Paid On Time
+PO_10417,Keystone Packaging,US-East,Operations,j.alvarez,1513.55,Net 45,No,Paid On Time
+PO_10418,Meridian Logistics,US-South,Facilities,t.walsh,9758.80,Net 45,No,Paid On Time
+PO_10419,Orion Electronics,APAC-Singapore,Finance,k.morgan,1673.79,Net 45,No,Paid Late
+PO_10420,Summit Lab Equipment,US-Midwest,Finance,k.morgan,2062.76,Net 45,No,Paid On Time
+PO_10421,Orion Electronics,APAC-Singapore,IT,s.kim,1007.69,Net 45,No,Paid On Time
+PO_10422,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,4193.72,2/10 Net 30,No,Paid Late
+PO_10423,Orion Electronics,APAC-Singapore,Marketing,a.brooks,7538.73,2/10 Net 30,No,Paid On Time
+PO_10424,Northline Components,US-East,Marketing,a.brooks,9183.99,Net 30,No,Paid Late
+PO_10425,Global Fasteners Ltd,EU-Germany,Facilities,t.walsh,4089.31,Net 45,No,Paid Late
+PO_10426,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,2099.71,Net 30,No,Paid Late
+PO_10427,Apex Industrial Supply,US-Midwest,IT,r.patel,6951.50,2/10 Net 30,No,Paid On Time
+PO_10428,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,5095.97,2/10 Net 30,No,Paid Late
+PO_10429,Global Fasteners Ltd,EU-Germany,Operations,m.chen,2269.09,Net 45,No,Paid On Time
+PO_10430,Summit Lab Equipment,US-Midwest,Finance,k.morgan,1996.89,Net 45,No,Paid On Time
+PO_10431,Orion Electronics,APAC-Singapore,R&D,d.nguyen,7182.46,Net 30,No,Paid On Time
+PO_10432,Northline Components,US-East,R&D,l.okafor,5401.66,Net 30,No,Paid On Time
+PO_10433,Keystone Packaging,US-East,Facilities,t.walsh,6360.19,2/10 Net 30,No,Paid On Time
+PO_10434,Apex Industrial Supply,US-Midwest,R&D,l.okafor,3438.58,2/10 Net 30,No,Paid On Time
+PO_10435,Keystone Packaging,US-East,Operations,j.alvarez,1386.14,Net 30,No,Paid On Time
+PO_10436,Meridian Logistics,US-South,R&D,d.nguyen,10945.85,2/10 Net 30,Yes,Paid On Time
+PO_10437,Apex Industrial Supply,US-Midwest,Operations,m.chen,3572.54,2/10 Net 30,No,Paid Late
+PO_10438,Apex Industrial Supply,US-Midwest,Finance,k.morgan,1631.02,2/10 Net 30,No,Paid On Time
+PO_10439,Northline Components,US-East,Operations,m.chen,6460.37,2/10 Net 30,No,Paid On Time
+PO_10440,Northline Components,US-East,R&D,d.nguyen,3519.57,2/10 Net 30,No,Paid Late
+PO_10441,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,3960.09,Net 45,No,Paid On Time
+PO_10442,Meridian Logistics,US-South,IT,r.patel,10605.03,Net 45,Yes,Paid Late
+PO_10443,Apex Industrial Supply,US-Midwest,Facilities,t.walsh,1910.52,Net 45,No,Paid On Time
+PO_10444,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,6958.49,Net 30,No,Paid Late
+PO_10445,Meridian Logistics,US-South,Operations,j.alvarez,13766.66,Net 45,Yes,Paid Late
+PO_10446,Global Fasteners Ltd,EU-Germany,IT,s.kim,1120.65,2/10 Net 30,No,Paid On Time
+PO_10447,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,3869.78,2/10 Net 30,No,Paid On Time
+PO_10448,Pacific Office Partners,US-West,Operations,j.alvarez,2772.06,Net 30,No,Paid On Time
+PO_10449,Pacific Office Partners,US-West,IT,s.kim,3293.49,Net 30,No,Paid On Time
+PO_10450,Summit Lab Equipment,US-Midwest,R&D,d.nguyen,3808.79,2/10 Net 30,No,Paid On Time
+PO_10451,Keystone Packaging,US-East,Marketing,a.brooks,1747.73,Net 30,No,Paid On Time
+PO_10452,Pacific Office Partners,US-West,Finance,k.morgan,1793.84,2/10 Net 30,No,Paid On Time
+PO_10453,Pacific Office Partners,US-West,Operations,j.alvarez,6840.57,Net 30,No,Paid On Time
+PO_10454,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,4893.95,Net 30,No,Paid Late
+PO_10455,Orion Electronics,APAC-Singapore,Operations,m.chen,1196.10,2/10 Net 30,No,Paid Late
+PO_10456,Summit Lab Equipment,US-Midwest,IT,s.kim,3132.11,Net 30,No,Paid On Time
+PO_10457,Orion Electronics,APAC-Singapore,Facilities,t.walsh,7252.63,2/10 Net 30,No,Paid On Time
+PO_10458,Northline Components,US-East,Finance,k.morgan,6515.63,Net 45,No,Paid On Time
+PO_10459,Global Fasteners Ltd,EU-Germany,Operations,m.chen,2648.84,Net 30,No,Paid Late
+PO_10460,Orion Electronics,APAC-Singapore,Facilities,t.walsh,4451.05,2/10 Net 30,No,Paid On Time
+PO_10461,Meridian Logistics,US-South,Facilities,t.walsh,7123.93,Net 45,No,Paid Late
+PO_10462,Meridian Logistics,US-South,Marketing,a.brooks,3004.40,Net 45,No,Paid On Time
+PO_10463,Keystone Packaging,US-East,Operations,j.alvarez,2247.84,Net 30,No,Paid On Time
+PO_10464,Apex Industrial Supply,US-Midwest,Operations,m.chen,3969.67,2/10 Net 30,No,Paid Late
+PO_10465,Orion Electronics,APAC-Singapore,IT,r.patel,7613.97,2/10 Net 30,No,Cancelled
+PO_10466,Keystone Packaging,US-East,R&D,d.nguyen,777.73,2/10 Net 30,No,Paid Late
+PO_10467,Apex Industrial Supply,US-Midwest,Finance,k.morgan,888.36,Net 30,No,Paid Late
+PO_10468,Northline Components,US-East,R&D,l.okafor,2161.60,Net 45,No,Paid On Time
+PO_10469,Global Fasteners Ltd,EU-Germany,IT,r.patel,4450.81,2/10 Net 30,No,Paid On Time
+PO_10470,Apex Industrial Supply,US-Midwest,R&D,l.okafor,1888.89,2/10 Net 30,No,Paid On Time
+PO_10471,Keystone Packaging,US-East,Operations,m.chen,9752.19,Net 30,No,Paid On Time
+PO_10472,Apex Industrial Supply,US-Midwest,Finance,k.morgan,6391.21,Net 30,No,Paid On Time
+PO_10473,Global Fasteners Ltd,EU-Germany,Operations,m.chen,7078.57,Net 45,No,Paid Late
+PO_10474,Global Fasteners Ltd,EU-Germany,Finance,k.morgan,8163.37,2/10 Net 30,No,Paid On Time
+PO_10475,Global Fasteners Ltd,EU-Germany,Marketing,a.brooks,5561.67,Net 30,No,Paid On Time
+PO_10476,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,3272.37,Net 45,No,Paid On Time
+PO_10477,Orion Electronics,APAC-Singapore,IT,r.patel,2115.00,Net 45,No,Paid On Time
+PO_10478,Orion Electronics,APAC-Singapore,R&D,d.nguyen,4833.51,2/10 Net 30,No,Paid On Time
+PO_10479,Keystone Packaging,US-East,Finance,k.morgan,1333.57,Net 45,No,Paid On Time
+PO_10480,Apex Industrial Supply,US-Midwest,Marketing,a.brooks,5480.34,Net 45,No,Paid On Time
+PO_10481,Pacific Office Partners,US-West,Facilities,t.walsh,1568.04,Net 30,No,Paid On Time
+PO_10482,Keystone Packaging,US-East,IT,r.patel,3334.21,Net 30,No,Paid On Time
+PO_10483,Global Fasteners Ltd,EU-Germany,R&D,l.okafor,2782.31,Net 45,No,Paid On Time
+PO_10484,Northline Components,US-East,Finance,k.morgan,6044.36,Net 45,No,Paid On Time
+PO_10485,Orion Electronics,APAC-Singapore,Marketing,a.brooks,3163.36,2/10 Net 30,No,Paid On Time
+PO_10486,Summit Lab Equipment,US-Midwest,Facilities,t.walsh,1837.74,Net 45,No,Paid Late
+PO_10487,Pacific Office Partners,US-West,Facilities,t.walsh,4202.38,Net 30,No,Paid On Time
+PO_10488,Pacific Office Partners,US-West,IT,r.patel,4534.81,Net 45,No,Paid Late
+PO_10489,Meridian Logistics,US-South,Marketing,a.brooks,7114.49,2/10 Net 30,No,Paid Late
+PO_10490,Summit Lab Equipment,US-Midwest,Marketing,a.brooks,3747.23,Net 45,No,Paid Late
+PO_10491,Global Fasteners Ltd,EU-Germany,IT,r.patel,1780.31,Net 45,No,Paid On Time
+PO_10492,Keystone Packaging,US-East,R&D,l.okafor,3522.24,Net 45,No,Paid Late
+PO_10493,Pacific Office Partners,US-West,Operations,m.chen,2603.56,Net 45,No,Paid Late
+PO_10494,Pacific Office Partners,US-West,IT,r.patel,4224.65,2/10 Net 30,No,Paid On Time
+PO_10495,Apex Industrial Supply,US-Midwest,IT,s.kim,3267.39,2/10 Net 30,No,Paid On Time
+PO_10496,Global Fasteners Ltd,EU-Germany,R&D,d.nguyen,2664.79,Net 45,No,Paid Late
+PO_10497,Pacific Office Partners,US-West,Marketing,a.brooks,8592.26,Net 45,No,Paid On Time
+PO_10498,Apex Industrial Supply,US-Midwest,R&D,l.okafor,3078.71,Net 30,No,Paid On Time
+PO_10499,Apex Industrial Supply,US-Midwest,R&D,l.okafor,3717.79,Net 30,No,Paid On Time
+PO_10500,Global Fasteners Ltd,EU-Germany,Operations,m.chen,15226.70,2/10 Net 30,Yes,Paid On Time

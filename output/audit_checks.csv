@@ -1,0 +1,12 @@
+check_name,expected,actual,passed
+Every event belongs to a known PO,0,0,true
+Every PO appears in the event log,0,0,true
+Each PO is created exactly once,0,0,true
+Each PO is sent to the vendor exactly once,0,0,true
+POs with a paid status have exactly one payment event,0,0,true
+One ledger invoice per invoice event,489,489,true
+One ledger payment per payment event,488,488,true
+Every payment points to a real invoice,0,0,true
+No payment dated before its invoice arrived,0,0,true
+No zero or negative amounts,0,0,true
+Payments tie out: gross - discount = paid,0,0,true

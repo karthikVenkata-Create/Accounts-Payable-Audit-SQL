@@ -1,0 +1,4 @@
+control_break,purchase_orders,spend
+Invoice before PO (after-the-fact purchasing),32,179898.15
+Cancelled after being sent to vendor,12,82082.38
+Over $10K with no 2nd-level approval,4,69677.52
