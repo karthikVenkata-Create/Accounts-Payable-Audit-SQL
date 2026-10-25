@@ -45,6 +45,8 @@ SELECT ...,
 -- every copy after the first was paid in error
 ```
 
+![Duplicate payments query and result](images/1_duplicate_payments.png)
+
 ### 2. The payment block works, then gets undone
 
 The three-way match compares what was ordered (PO), what arrived (goods receipt) and what was billed (invoice). The most that should ever be paid is the lower of the PO and the receipt. I flagged anything billed more than 2% **and** more than $100 above that, so small invoices don't flood the list and big ones can't hide behind a percentage.
@@ -82,6 +84,8 @@ I used `LAG()` over the event log to measure the wait before every step. Leaving
 ### 5. Who to call first
 
 The vendor scorecard combines every test and ranks vendors by dollars lost. **Pacific Office Partners** ($20.4K, mostly 4 duplicates) and **Keystone Packaging** ($18.6K, 8% of its spend) are first. Summit Lab Equipment and Global Fasteners have the most match exceptions and late payments, but lose less money per dollar spent.
+
+![Audit summary query and result](images/4_audit_summary.png)
 
 ## How it's built
 
@@ -140,5 +144,6 @@ I first looked at this same process in Celonis while learning process automation
 ├── sql/               # 01-10, one step per file
 ├── data/              # raw PO table and event log
 ├── output/            # every result as CSV
+├── images/            # query + result screenshots
 └── celonis-side-project/  # small Celonis Action Flow build (currency converter)
 ```
